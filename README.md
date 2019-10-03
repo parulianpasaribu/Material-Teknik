@@ -29,5 +29,5 @@ Cara Instal
 
 Copyright & License
 -------
-Copyright (c) 2017 Slamet Riky
+Copyright (c) 2017 Samuel Pasaribu
 [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.html)
